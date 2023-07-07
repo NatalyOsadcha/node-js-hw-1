@@ -1,6 +1,6 @@
 1. Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-https://monosnap.com/file/KiK5c9RLth11Arkrnlcs2VMOwMruM3
+https://monosnap.com/file/GasTwdbHK8of5g3rEyBVb1yO7KZjem
 
 2. Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує
 
